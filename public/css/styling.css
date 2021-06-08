@@ -1,0 +1,35 @@
+body{
+    font-family: Open Sans, sans-serif;
+    background-color: #fce4ec;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#menu a{
+    text-align: center;
+    padding: 0 ,100px;
+    display:inline-block;
+    width:400px;
+    height:50px;
+    line-height: 50px;
+    background: linear-gradient(to left,#e91e63,#f44336);
+    box-shadow: 0 10px 25px #e91e6360;
+    border-radius: 50px;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom:15px;
+    margin:10px;
+   
+   
+}
+ul { list-style-type:none;
+     margin-left: 300px;
+     margin-bottom: 200px;
+    
+    }
+
